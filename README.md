@@ -49,47 +49,54 @@
 
 ## 🚀 Featured Projects  
 
-### 🟢 1. Portfolio Website  
-- موقع شخصي لعرض شغلي  
-- Responsive بالكامل  
-
-🔗 Live Demo: (حط اللينك)  
-📂 Code: (حط GitHub Repo)  
-
 ---
 
-### 🔵 2. Landing Page  
-- تصميم احترافي  
-- UI جذاب  
-
-🔗 Live Demo: (حط اللينك)  
-📂 Code: (حط GitHub Repo)  
-
----
-
-### 🟣 3. React App  
-- تطبيق React  
-- Components منظمة  
-
-🔗 Live Demo: (حط اللينك)  
-📂 Code: (حط GitHub Repo)  
-
----
-
-## 📊 GitHub Stats  
+### 🎨 CSS Code Generator Tool  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="32%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="32%">
+<img src="https://github.com/Ahmed-ramadan-3/css-code-generator-tool/blob/main/bundle-preview-20260516_225947.png" width="80%" style="border-radius:10px;" />
 
 </div>
+
+💡 أداة بتولّد أكواد CSS بشكل سريع وسهل  
+⚡ بتساعد المطورين يوفّروا وقت في كتابة الكود  
+
+✨ Features:
+- Generate CSS Code تلقائي  
+- UI بسيط وسهل الاستخدام  
+- مناسب للمبتدئين والمحترفين  
+
+🔗 **Live Demo:** https://css-code-generation-tool.netlify.app/  
+📂 **GitHub:** https://github.com/Ahmed-ramadan-3/css-code-generator-tool  
+
+---
+
+### 🧮 Smart Calculator (Light / Dark Mode)  
+
+<div align="center">
+
+<img src="https://github.com/Ahmed-ramadan-3/Calculator-project-1/blob/main/light.PNG" width="45%" style="border-radius:10px;" />
+<img src="https://github.com/Ahmed-ramadan-3/Calculator-project-1/blob/main/dark.PNG" width="45%" style="border-radius:10px;" />
+
+</div>
+
+💡 آلة حاسبة بواجهة حديثة ودعم الوضع الليلي والنهاري  
+
+✨ Features:
+- Dark Mode 🌙  
+- Light Mode ☀️  
+- تصميم نظيف وسريع  
+- Responsive على كل الأجهزة  
+
+🔗 **Live Demo:** https://ahmed-ramadan-3.github.io/Calculator-project-1/  
+📂 **GitHub:** https://github.com/Ahmed-ramadan-3/Calculator-project-1  
 
 ---
 
 ## 📫 Contact Me  
 
-- 💬 Telegram: https://t.me/@AhmedRamadan233  
+- 💬 Telegram: https://t.me/spxd007  
 - 📧 Email: (حط ايميلك)  
 
 ---
